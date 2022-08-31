@@ -46,3 +46,5 @@ buttons.forEach((button) => {
     document.querySelector(".result").textContent = `Result:  ${result}`;
   });
 });
+
+console.log("-Ajmal Mahtab");
